@@ -4,8 +4,8 @@
 
 | **Nombre y Apellidos** |         **Correo**         |               **GitHub**               |
 | :--------------------: | :------------------------: | :------------------------------------: |
-|  Ariel Plasencia Díaz  | arielplasencia00@gmail.com | [@ArielXL](https://github.com/ArielXL) |
+|  Alex Manuel Gomez Salazar  | salsarflaco@gmail.com | [@Lic-alexgomez](https://github.com/lic-alexgomez) |
 
 ## Link
 
-Para acceder al sitio web presione [aquí](https://arielxl.github.io/tienda-online/).
+Para acceder al sitio web presione [aquí](https://lic-alexgomez.github.io/tienda-online/).
